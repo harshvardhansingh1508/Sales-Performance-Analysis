@@ -177,15 +177,9 @@ Historical sales patterns can help businesses plan:
 ```text
 Sales-Performance-Analysis/
 │
-├── Sales_Performance_Analysis.ipynb
 ├── README.md
-├── dataset/
-│   └── sales_data.csv
-│
-└── visualizations/
-    ├── sales_trend.png
-    ├── top_products.png
-    └── category_performance.png
+├── Sales_Performance_Analysis_Harshvardhan_Singh.ipynb
+├── Sales_Performance_Analysis_Report_Harshvardhan_Singh.ipynb
 ```
 
 > The exact file names may vary depending on the files uploaded to the repository.
