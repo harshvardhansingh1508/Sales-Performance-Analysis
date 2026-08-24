@@ -179,7 +179,7 @@ Sales-Performance-Analysis/
 │
 ├── README.md
 ├── Sales_Performance_Analysis_Harshvardhan_Singh.ipynb
-├── Sales_Performance_Analysis_Report_Harshvardhan_Singh.ipynb
+├── Sales_Performance_Analysis_Report_Harshvardhan_Singh.pdf
 ```
 
 > The exact file names may vary depending on the files uploaded to the repository.
