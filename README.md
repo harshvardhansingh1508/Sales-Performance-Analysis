@@ -58,5 +58,16 @@ Professional summary containing analysis, visualizations, insights, and recommen
 `Sales_Performance_Analysis_Report_Harshvardhan_Singh.pdf`
 
 ## Conclusion
+The analysis provides insights into Alfido Tech's sales performance across regions, categories, products, and time periods. The findings highlight opportunities to strengthen high-performing areas while improving weaker regions, categories, products, and sales periods through targeted business strategies.
+
+👨‍💻 Author
+Harshvardhan Singh
+
+B.Tech Student | Data Analytics & Data Engineering Enthusiast
+
+⭐ Acknowledgement
+Dataset sourced from Kaggle – Sales Performance Analysis.
+
+This project was completed as part of a data analysis internship/project assignment with Alfido Tech.
 
 The analysis provides insights into Alfido Tech's sales performance across regions, categories, products, and time periods. The findings highlight opportunities to strengthen high-performing areas while improving weaker regions, categories, products, and sales periods through targeted business strategies.
